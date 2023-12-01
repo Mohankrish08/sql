@@ -8,7 +8,7 @@
 
 **Commands**
 
-| Commands           |
+| Day 1           |
 |---------------------
 | 1. SELECT - Select and return data         |
 | 2. ORDER BY - Used to order the results    |
