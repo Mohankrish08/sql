@@ -15,3 +15,16 @@
 | 3. SELECT DISTINCT - Select the distinct values |
 | 4. LIMIT - Limit the no.of rows and cols          |
 | 5. COUNT() - Count the no.of rows to output       |
+
+## Day 2
+
+**Commands**
+
+| Day 2 |
+|---------------------|
+| 6. WHERE - Filtering records                   |
+| 7. AND / OR - Connect the two conditions       |
+| 8. BETWEEN - Filter the range of values        |
+| 9. IN - Efficient method without using AND     |
+| 10. LIKE - Filter by matching records          |
+| 11. AS - Used to rename the column             |
