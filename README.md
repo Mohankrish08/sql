@@ -28,3 +28,11 @@
 | 9. IN - Efficient method without using AND     |
 | 10. LIKE - Filter by matching records          |
 | 11. AS - Used to rename the column             |
+
+## Day 3
+
+| Day 3 |
+|-----------------------|
+| 7. Aggregations - Aggregate values in multiple rows to one value |
+| 8. Group by - Group the aggregations by specific columns |
+| 9. Having - Filter the grouping by aggregations |
